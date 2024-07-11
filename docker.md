@@ -81,7 +81,7 @@ rancher/nginx                                                                   
 
 2. **拉取镜像**
 
-**作用：**从Docker Hub或其他镜像仓库中下载指定的镜像。
+**作用**：从Docker Hub或其他镜像仓库中下载指定的镜像。
 
 ```bash
 docker pull <image_name>:<tag>
